@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\praktika\kalkulyator\bin\Debug\kalkulyator.exe.config
+C:\Users\user\Desktop\praktika\kalkulyator\bin\Debug\kalkulyator.exe
+C:\Users\user\Desktop\praktika\kalkulyator\bin\Debug\kalkulyator.pdb
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\App.g.cs
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\kalkulyator_MarkupCompile.cache
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\kalkulyator_MarkupCompile.lref
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\kalkulyator.g.resources
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\kalkulyator.Properties.Resources.resources
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\kalkulyator.exe
+C:\Users\user\Desktop\praktika\kalkulyator\obj\Debug\kalkulyator.pdb
