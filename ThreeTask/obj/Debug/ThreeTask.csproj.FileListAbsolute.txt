@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\praktika\ThreeTask\bin\Debug\ThreeTask.exe.config
+C:\Users\user\Desktop\praktika\ThreeTask\bin\Debug\ThreeTask.exe
+C:\Users\user\Desktop\praktika\ThreeTask\bin\Debug\ThreeTask.pdb
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\App.g.cs
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask_MarkupCompile.cache
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask_MarkupCompile.lref
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask.g.resources
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask.Properties.Resources.resources
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask.csproj.GenerateResource.cache
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask.exe
+C:\Users\user\Desktop\praktika\ThreeTask\obj\Debug\ThreeTask.pdb
