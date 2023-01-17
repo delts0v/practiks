@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\App.g.cs
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii_MarkupCompile.cache
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii_MarkupCompile.lref
+C:\Users\user\Desktop\praktika\cikliii\cikliii\bin\Debug\cikliii.exe.config
+C:\Users\user\Desktop\praktika\cikliii\cikliii\bin\Debug\cikliii.exe
+C:\Users\user\Desktop\praktika\cikliii\cikliii\bin\Debug\cikliii.pdb
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.g.resources
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.Properties.Resources.resources
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.csproj.GenerateResource.cache
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.exe
+C:\Users\user\Desktop\praktika\cikliii\cikliii\obj\Debug\cikliii.pdb
