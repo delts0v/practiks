@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\App.g.cs
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod_MarkupCompile.cache
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod_MarkupCompile.lref
+C:\Users\user\Desktop\praktika\metod\metod\bin\Debug\metod.exe.config
+C:\Users\user\Desktop\praktika\metod\metod\bin\Debug\metod.exe
+C:\Users\user\Desktop\praktika\metod\metod\bin\Debug\metod.pdb
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.g.resources
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.Properties.Resources.resources
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.csproj.GenerateResource.cache
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.exe
+C:\Users\user\Desktop\praktika\metod\metod\obj\Debug\metod.pdb

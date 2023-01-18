@@ -1,0 +1,51 @@
+﻿<Window x:Class="metod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:metod"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="a2" Content="-" HorizontalAlignment="Left" Margin="58,67,0,0" VerticalAlignment="Top" Width="29" Click="a2_Click" Height="25"/>
+        <Button x:Name="a3" Content="*" HorizontalAlignment="Left" Margin="126,67,0,0" VerticalAlignment="Top" Width="30" Click="a3_Click" Height="25"/>
+        <Button x:Name="a4" Content="/" HorizontalAlignment="Left" Margin="195,67,0,0" VerticalAlignment="Top" Width="27" Click="a4_Click" Height="25"/>
+        <Button x:Name="a1" Content="+" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" Width="24" Click="a1_Click" Height="25" />
+        <TextBox x:Name="b1" HorizontalAlignment="Left" Margin="28,33,0,0" TextWrapping="Wrap" Text="A&#xD;&#xA;" VerticalAlignment="Top" Width="90" Height="27" />
+        <TextBox x:Name="b2" HorizontalAlignment="Left" Margin="165,33,0,0" TextWrapping="Wrap" Text="B&#xD;&#xA;" VerticalAlignment="Top" Width="90" Height="27"/>
+        <Label x:Name="c3" Content="" HorizontalAlignment="Left" Margin="296,36,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.325,0.366" Height="28" Width="65"/>
+        <Label x:Name="c1" Content="" HorizontalAlignment="Left" Margin="127,30,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.141,0.444" Height="21" Width="29"/>
+        <Label x:Name="c2" Content="" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top" Height="31" Width="65"/>
+        <TextBox x:Name="d1" HorizontalAlignment="Left" Margin="58,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="d2" HorizontalAlignment="Left" Margin="227,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Convert&#xD;&#xA;" HorizontalAlignment="Left" Margin="142,0,0,0" VerticalAlignment="Center" Click="Button_Click" Width="126" Height="24"/>
+        <Label x:Name="f1" Content="" HorizontalAlignment="Left" Margin="377,170,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="g1" HorizontalAlignment="Left" Margin="58,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="click" HorizontalAlignment="Left" Margin="28,369,0,0" VerticalAlignment="Top" Click="Button_Click_1" Width="45"/>
+        <Button Content="click" HorizontalAlignment="Left" Margin="138,369,0,0" VerticalAlignment="Top" Click="Button_Click_2" Width="52"/>
+        <Label x:Name="h1" Content="Label" HorizontalAlignment="Left" Margin="227,280,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="h2" Content="Label" HorizontalAlignment="Left" Margin="227,338,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.159,0.295"/>
+        <TextBox x:Name="i1" HorizontalAlignment="Left" Margin="525,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="узнать варианты" HorizontalAlignment="Left" Margin="525,82,0,0" VerticalAlignment="Top" Click="Button_Click_3" Width="137"/>
+        <Label x:Name="k1" Content="" HorizontalAlignment="Left" Margin="686,46,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="l1" HorizontalAlignment="Left" Margin="543,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="есть ли долг" HorizontalAlignment="Left" Margin="461,251,0,0" VerticalAlignment="Top" Click="Button_Click_4" Width="164"/>
+        <Button Content="сумма долга" HorizontalAlignment="Left" Margin="461,289,0,0" VerticalAlignment="Top" Click="Button_Click_5" Width="164"/>
+        <Button Content="сумма переплаты" HorizontalAlignment="Left" Margin="461,338,0,0" VerticalAlignment="Top" Click="Button_Click_6" Width="164"/>
+        <Label x:Name="o1" Content="" HorizontalAlignment="Left" Margin="686,251,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="o2" Content="" HorizontalAlignment="Left" Margin="686,293,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="o3" Content="" HorizontalAlignment="Left" Margin="686,333,0,0" VerticalAlignment="Top"/>
+        <Label Content="ваша валюта" HorizontalAlignment="Left" Margin="72,136,0,0" VerticalAlignment="Top" Width="84"/>
+        <Label Content="куда хотите перевести" HorizontalAlignment="Left" Margin="227,136,0,0" VerticalAlignment="Top" Width="137"/>
+        <Label Content="кол-во клиентов" HorizontalAlignment="Left" Margin="543,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="введите число " HorizontalAlignment="Left" Margin="58,249,0,0" VerticalAlignment="Top" Width="132"/>
+        <Label Content="+ / -" HorizontalAlignment="Left" Margin="28,338,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.067,0.311" Width="45"/>
+        <Label Content="сложное / простое" HorizontalAlignment="Left" Margin="105,337,0,0" VerticalAlignment="Top" Width="117" Height="27"/>
+        <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="50" Height="28" Background="#FF8DE7FF"/>
+        <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="50" Height="28" Background="#FF8DE7FF" Margin="0,149,0,0"/>
+        <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" Width="50" Height="28" Background="#FF8DE7FF" Margin="3,262,0,0"/>
+        <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="50" Height="28" Background="#FF8DE7FF" Margin="410,191,0,0"/>
+        <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="50" Height="28" Background="#FF8DE7FF" Margin="410,23,0,0"/>
+
+    </Grid>
+</Window>
